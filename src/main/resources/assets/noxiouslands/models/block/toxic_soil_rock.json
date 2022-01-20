@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "noxiouslands:block/toxic_soil",
+    "side": "noxiouslands:block/toxic_soil_rock",
+    "bottom": "minecraft:block/toxic_rock"
+  }
+}

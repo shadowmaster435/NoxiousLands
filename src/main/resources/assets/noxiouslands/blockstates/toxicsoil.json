@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "rockbelow=false": { "model": "noxiouslands:block/toxic_soil" },
+    "rockbelow=true": { "model": "noxiouslands:block/toxic_soil_rock" }
+  }
+}
